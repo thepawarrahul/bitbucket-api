@@ -1,0 +1,105 @@
+{
+   "type":"commit",
+   "hash":"f1a722568bc5f2888ec76145f0697927a02d20d8",
+   "date":"2023-09-28T12:30:51+00:00",
+   "author":{
+      "type":"author",
+      "raw":"Aurko Mallick <amallick@nimbleuser.com>",
+      "user":{
+         "display_name":"Aurko Mallick",
+         "links":{
+            "self":{
+               "href":"https://api.bitbucket.org/2.0/users/%7B0c0d7fbb-cb97-4a62-82be-c9ec427fa542%7D"
+            },
+            "avatar":{
+               "href":"https://secure.gravatar.com/avatar/406462582b9f6d21e637624f07313759?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAM-3.png"
+            },
+            "html":{
+               "href":"https://bitbucket.org/%7B0c0d7fbb-cb97-4a62-82be-c9ec427fa542%7D/"
+            }
+         },
+         "type":"user",
+         "uuid":"{0c0d7fbb-cb97-4a62-82be-c9ec427fa542}",
+         "account_id":"557058:d5a74c38-4b08-4b41-98b8-28effaa1ce2b",
+         "nickname":"Aurko Mallick"
+      }
+   },
+   "message":"Merged develop into AMS-13318",
+   "summary":{
+      "type":"rendered",
+      "raw":"Merged develop into AMS-13318",
+      "markup":"markdown",
+      "html":"<p>Merged develop into <a href=\"https://nimbleuser.jira.com/browse/AMS-13318\" class=\"ap-connect-link\" rel=\"nofollow\">AMS-13318</a></p>"
+   },
+   "links":{
+      "self":{
+         "href":"https://api.bitbucket.org/2.0/repositories/nimbleams/nu-dx-org/commit/f1a722568bc5f2888ec76145f0697927a02d20d8"
+      },
+      "html":{
+         "href":"https://bitbucket.org/nimbleams/nu-dx-org/commits/f1a722568bc5f2888ec76145f0697927a02d20d8"
+      },
+      "diff":{
+         "href":"https://api.bitbucket.org/2.0/repositories/nimbleams/nu-dx-org/diff/f1a722568bc5f2888ec76145f0697927a02d20d8"
+      },
+      "approve":{
+         "href":"https://api.bitbucket.org/2.0/repositories/nimbleams/nu-dx-org/commit/f1a722568bc5f2888ec76145f0697927a02d20d8/approve"
+      },
+      "comments":{
+         "href":"https://api.bitbucket.org/2.0/repositories/nimbleams/nu-dx-org/commit/f1a722568bc5f2888ec76145f0697927a02d20d8/comments"
+      },
+      "statuses":{
+         "href":"https://api.bitbucket.org/2.0/repositories/nimbleams/nu-dx-org/commit/f1a722568bc5f2888ec76145f0697927a02d20d8/statuses"
+      }
+   },
+   "parents":[
+      {
+         "hash":"0bb23a571e6c18ba4e894e49d5996ef66b446ca5",
+         "links":{
+            "self":{
+               "href":"https://api.bitbucket.org/2.0/repositories/nimbleams/nu-dx-org/commit/0bb23a571e6c18ba4e894e49d5996ef66b446ca5"
+            },
+            "html":{
+               "href":"https://bitbucket.org/nimbleams/nu-dx-org/commits/0bb23a571e6c18ba4e894e49d5996ef66b446ca5"
+            }
+         },
+         "type":"commit"
+      },
+      {
+         "hash":"0d1f18f773082da68987c374b570868d69cb83ba",
+         "links":{
+            "self":{
+               "href":"https://api.bitbucket.org/2.0/repositories/nimbleams/nu-dx-org/commit/0d1f18f773082da68987c374b570868d69cb83ba"
+            },
+            "html":{
+               "href":"https://bitbucket.org/nimbleams/nu-dx-org/commits/0d1f18f773082da68987c374b570868d69cb83ba"
+            }
+         },
+         "type":"commit"
+      }
+   ],
+   "rendered":{
+      "message":{
+         "type":"rendered",
+         "raw":"Merged develop into AMS-13318",
+         "markup":"markdown",
+         "html":"<p>Merged develop into <a href=\"https://nimbleuser.jira.com/browse/AMS-13318\" class=\"ap-connect-link\" rel=\"nofollow\">AMS-13318</a></p>"
+      }
+   },
+   "repository":{
+      "type":"repository",
+      "full_name":"nimbleams/nu-dx-org",
+      "links":{
+         "self":{
+            "href":"https://api.bitbucket.org/2.0/repositories/nimbleams/nu-dx-org"
+         },
+         "html":{
+            "href":"https://bitbucket.org/nimbleams/nu-dx-org"
+         },
+         "avatar":{
+            "href":"https://bytebucket.org/ravatar/%7B03ac5957-6edc-4f8f-bd04-ca80a7d171d5%7D?ts=default"
+         }
+      },
+      "name":"nu-dx-org",
+      "uuid":"{03ac5957-6edc-4f8f-bd04-ca80a7d171d5}"
+   }
+}
